@@ -26,4 +26,4 @@ Welcome to our comprehensive event registration form. This multi-step form has b
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/yourusername?tab=repositories&q=&type=&language=css&sort=)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/yourusername?tab=repositories&q=&type=&language=javascript&sort=)
 
-![Form Preview](https://example.com/form-preview.png) <!-- لینک تصویر پیش‌نمایش فرم -->
+![Form Preview](preview.png) <!-- لینک تصویر پیش‌نمایش فرم -->
